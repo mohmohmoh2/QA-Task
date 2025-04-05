@@ -11,6 +11,7 @@
 
 # At this task I've used
 Different Selectors types like: id, xpath, cssSelector
+Also Different Wait types
 
 # For running this code, you can pull it and run it in your IDE
 ### You can edit the Configurations like the browser type and the TestData From *src/test/resources/TestData*
