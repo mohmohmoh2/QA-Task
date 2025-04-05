@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="Regression Suite">
+    <test name="Regression Test">
+        <classes>
+            <class name="tests.TC01_AddItemToCart"/>
+            <class name="tests.TC02_ValidProductSearch"/>
+        </classes>
+    </test>
+</suite>

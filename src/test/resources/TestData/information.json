@@ -1,0 +1,11 @@
+{
+  "searchWord": "Ajax",
+    "shippingEmail": "test@example.com",
+    "shippingFirstname": "Ajax",
+    "shippingLastname": "Last",
+    "shippingAddress": "123 Ajax St.",
+    "shippingCity": "Ajax City",
+    "shippingState": "Alaska",
+    "shippingZip": "12345",
+    "shippingPhone": "1234567890"
+}
